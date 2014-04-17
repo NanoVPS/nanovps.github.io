@@ -18,4 +18,6 @@ Bite-size Servers. Probably the only detailed 32MB, 64MB &amp; 96MB RAM VPS list
 - Twitter Bootstrap
 - jQuery
 - Footable
+- FontAwesome
 - jsDelivr
+- BootstrapCDN
