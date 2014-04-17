@@ -5,6 +5,7 @@ Bite-size Servers. Probably the only detailed 32MB, 64MB &amp; 96MB RAM VPS list
 ## Inspiration
 
 drmike (https://vpsboard.com/topic/2941-96mb-and-smaller-lowend-vps-packages-the-offer-list/)
+
 Box Minimum (discontinued)
 
 ##Credits
