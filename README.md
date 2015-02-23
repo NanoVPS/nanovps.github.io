@@ -2,6 +2,8 @@
 
 Bite-size Servers. Probably the only detailed 32MB, 64MB &amp; 96MB RAM VPS list on the World Wide Web.
 
+**Status: Sadly, this has been discontinued.**
+
 ## Inspirations
 
 - drmike's [96MB and smaller lowend VPS packages - the offer list](https://vpsboard.com/topic/2941-96mb-and-smaller-lowend-vps-packages-the-offer-list/) thread on vpsBoard
